@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187590518709",
+    "firebase_url": "https://beto-3611c.firebaseio.com",
+    "project_id": "beto-3611c",
+    "storage_bucket": "beto-3611c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187590518709:android:7a66e4673e76b8f9c69bfc",
+        "android_client_info": {
+          "package_name": "com.beto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187590518709-rh949evvm88ibj24qkk1g9alg1jrltpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "187590518709-18g0hrb7p4loe2ablead54874gvcfmj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbOGVuXMSSomJfhqO8X2UuzWGdgJEvBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187590518709-18g0hrb7p4loe2ablead54874gvcfmj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
