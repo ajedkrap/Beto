@@ -1,5 +1,5 @@
 <h1 align="center" > 
-<img height="80" src="https://raw.githubusercontent.com/ajedkrap/beto/master/logo.png" alt="logo" />
+<img height="120" src="https://raw.githubusercontent.com/ajedkrap/beto/master/logo.png" alt="logo" />
   <div/>
 <img height="60" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png" alt="react-native" />
 </h1>
