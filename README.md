@@ -10,7 +10,7 @@
 ## Screenshot
 <br/>
 <p align="center">
-   <img height="720" src="https://raw.githubusercontent.com/ajedkrap/eLibraryReactNative/master/banner.png" alt="banner"/>
+   <img height="720" src="https://raw.githubusercontent.com/ajedkrap/beto/master/banner.png" alt="banner"/>
 </p>  
 <br/>
 
