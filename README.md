@@ -8,7 +8,10 @@
 </h1>
 
 ## Description
+<div>
 [![](https://img.shields.io/badge/React--Native-v0.61.5-blue)](https://github.com/facebook/react-native)
+[![](https://img.shields.io/badge/RN--Firebase-v8.2.0-orange)](https://rnfirebase.io/)
+</div>
 <div />
 Beto, shorts for *Between Togetherness*, is a chat app which features map view for get friends location. Using React Native for Front-End, and Firebase for Back-end and Database development
 <p align='justify'></p>
