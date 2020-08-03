@@ -1,13 +1,16 @@
 <h1 align="center" > 
 <img height="180" src="https://raw.githubusercontent.com/ajedkrap/beto/master/logo.png" alt="logo" />
   <div/>
+  <div>
 <img height="60" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png" alt="react-native" />
+    <img height="60" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/firebase/images/touchicon-180.png" alt="firebase" />
+  </div>
 </h1>
 
 ## Description
 [![](https://img.shields.io/badge/React--Native-v0.61.5-blue)](https://github.com/facebook/react-native)
 <div />
-Beto, shorts for *Between Togetherness*, is a chat app which features map view for get friends location.
+Beto, shorts for *Between Togetherness*, is a chat app which features map view for get friends location. Using React Native for 
 <p align='justify'></p>
 
 ## Requirements
